@@ -1,0 +1,5 @@
+credentials/
+stripe.exe
+.env
+__pycache__/
+.vscode/
